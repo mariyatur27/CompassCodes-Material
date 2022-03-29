@@ -15,3 +15,8 @@ In this lesson, we learned about styling websites with CSS.
 In this lesson, we continued with CSS and started learning about JS.
 - [Slideshow](https://docs.google.com/presentation/d/1QWzerOKTC6jxKrFO6L7WELUY92brntXrq6Yil2cqX4o/edit?usp=sharing)
 - [Practice](https://docs.google.com/document/d/1XA0h1z2ZwVCpPo2S0yz7XQNS6mznDQhQ9gNu_fWLtyc/edit?usp=sharing)
+
+### Lesson 4
+In this lesson, we started learning about how JS interacts with CSS and HTML through the creation of a form. 
+- [Slideshow](https://docs.google.com/presentation/d/1KFXzn4GLz7XVHUkPWfWRpMPFcawl1H0wTccZ_bMOLWA/edit?usp=sharing)
+- [Practice](https://docs.google.com/document/d/1_ftTZYigip7-XVrnimLDdUmeIFB3L3JWB2pSRcgsnO8/edit?usp=sharing)
